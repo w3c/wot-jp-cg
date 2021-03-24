@@ -1,0 +1,10 @@
+@startuml
+group Read
+Consumer -> Thing: GET /led HTTP/1.1
+Consumer <- Thing: 200 OK\n payload:{"state":true}
+end
+group Write
+Consumer -> Thing: PUT /led HTTP/1.1\n  payload:{"state":false}
+Consumer <- Thing: 200 OK
+end
+@enduml

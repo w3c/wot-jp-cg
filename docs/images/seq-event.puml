@@ -1,0 +1,15 @@
+@startuml
+group Event (HTTP long polling)
+Consumer -> Thing: GET /lpalert HTTP/1.1
+... イベントが発生するまで返答を保留 ...
+note over Thing: イベント発生
+Consumer <- Thing: 200 OK\n payload:{"alert":"overheat"}
+end
+group Event (WebSocket)
+Consumer -> Thing: GET /wsalert HTTP/1.1\nUpgrade: websocket
+Consumer <- Thing: 101 Switching Protocols
+note over Thing: WebSocketに切り替え
+note over Thing: イベント発生
+Consumer <- Thing: {"alert":"overheat"}
+end
+@enduml
