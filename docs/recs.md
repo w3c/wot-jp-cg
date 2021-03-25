@@ -5,8 +5,7 @@
 - Web of Things (WoT) Architecture
   - WoTを用いたIoTシステムの全体アーキテクチャの説明
   - [原文](https://www.w3.org/TR/wot-architecture/)
-  - [日本語訳](https://wot-jp-community.github.io/wot-architecture/index.html)
-  - [日本語訳](/wot-architecture/index.html ":ignore")
+  - [日本語訳](wot-architecture/index.html ":ignore")
 
 
 - Web of Things (WoT) Thing Description

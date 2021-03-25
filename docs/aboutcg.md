@@ -18,4 +18,4 @@ Web of Things Japanese Community Groupは、
 
 参加申し込みは[Web of Things Japanese Community Groupのウェルカムページ](https://www.w3.org/community/wot-jp/)から行えます。Web of Thingsに関心があるかたの参加をお待ちしております。
 
-参考: [Community GroupのDraft Charter](/CGCharter.html ":ignore")
+参考: [Community GroupのDraft Charter](CGCharter.html ":ignore")
