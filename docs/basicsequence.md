@@ -1,4 +1,4 @@
-# WoTの基本的なやりとり
+# WoTの基本的なシーケンス
 
 Web of Thingsでは、IoTデバイスとの相互作用をProperty、Action、
 Eventの3つに抽象化しています。理論的には、これらの相互作用に

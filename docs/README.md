@@ -1,4 +1,4 @@
-# Web of Things Japanese Community Group
+# Web of Things Japanese Community Group (WoT-JP CG)
 
 W3C Web of Things(WoT)は、Web技術を用いてIoTプラットフォーム間の相互運用を実現するための標準です。
 WoTの特長は、実装すべき新たなプラットフォームを定義するのではなく、既存のWoTプラットフォームをThing Descriptionと呼ばれる機械可読な文書で記述することで相互接続できるようにするところです。

@@ -1,4 +1,4 @@
-# チュートリアル: Node Generator for Node-REDを使ったThingの操作
+# Node Generator for Node-REDを使ったThingの操作
 
 ## はじめに
 

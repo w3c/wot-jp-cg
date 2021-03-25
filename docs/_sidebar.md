@@ -1,26 +1,24 @@
 - はじめに
   - [Web of Thingsについて](about.md)
-  - WoT-JP CGについて
+  - [WoT-JP CGについて](aboutcg.md)
 
-- WoT入門
-  - [WoTの基本的なやりとり](basicsequence.md)
+- デプロイメント
+  - WoT入門
+    - [WoTの基本的なシーケンス](basicsequence.md)
+  - チュートリアル
+    - Thingの作成
+      - [RaspberryPiでThingを作る](raspithing.md)
+    - Thingの利用
+      - [Node Generator for Node-REDを使ったThingの操作](nodegen-tutorial.md)
 
-- チュートリアル
-  - Thingを作ってみよう
-    - [RaspberryPiでThingを作る](raspithing.md)
-  - Thingを動かしてみよう
-    - [Node Generator for Node-REDを使ったThingの操作](nodegen-tutorial.md)
-  - その他の情報
-    - TD Playground
-    - node-wot 
+- アウトリーチ
+  - [CG関連イベント](event.md)
+
+- ダウンストリーム
+  - [WoT勧告の翻訳](translation.md)
 
 - 関連文書
   - [W3C勧告など](recs.md)
-
-- Plugfest開催ガイドライン
-  - Plugfestの目的/手順
-  - 参加手順
-  - 開催手順
 
 - [その他・リンク集](misc.md)
 
