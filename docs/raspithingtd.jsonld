@@ -1,0 +1,92 @@
+{
+    "@context": [
+        "https://www.w3.org/2019/wot/td/v1",
+        {
+            "iot": "http://iotschema.org/"
+        }
+    ],
+    "id": "urn:dev:mac:00c141ffff25084e",
+    "title": "MyFirstLEDLamp",
+    "titles": {
+        "en": "MyFirstLEDLamp",
+        "ja": "私の最初のLEDランプ"
+    },
+    "description": "Simple LED Lamp using Node-RED",
+    "descriptions": {
+        "en": "Simple LED Lamp using Node-RED",
+        "ja": "Node-REDをつかったシンプルなLEDランプ"
+    },
+    "securityDefinitions": {
+        "nosec_sc": {
+            "scheme": "nosec"
+        }
+    },
+    "security": [
+        "nosec_sc"
+    ],
+    "properties": {
+        "led": {
+            "title": "LED status",
+            "titles": {
+                "en": "LED status",
+                "ja": "LEDの状態"
+            },
+            "type": "object",
+            "properties": {
+                "value": {
+                    "type":"number"
+                }
+            },
+            "forms": [
+                {
+                    "href": "http://example.com:1880/led",
+                    "op": [
+                        "readproperty",
+                        "writeproperty"
+                    ],
+                    "contentType": "application/json"
+                }
+            ]
+        }
+    },
+    "actions": {
+        "toggle": {
+            "title": "toggle a switch",
+            "titles": {
+                "en": "toggle a switch",
+                "ja": "スイッチをトグルする"
+            },
+            "safe": false,
+            "idempotent": false,
+            "forms": [{
+                "op": "invokeaction",
+                "href": "http://example.com:1880/toggle",
+                "contentType": "application/json"
+            }]
+        }
+    },
+    "events": {
+        "toggled": {
+            "title": "switch is toggled",
+            "titles": {
+                "en": "switch is toggled",
+                "ja": "スイッチがトグルされた"
+            },
+            "data": {
+                "type": "object",
+                "properties": {
+                    "value": {
+                        "type": "number"
+                    }
+                }
+            },
+            "forms": [
+                {
+                    "href": "ws://example.com:1880/toggled",
+                    "op": "subscribeevent",
+                    "contentType": "application/json"
+                }
+            ]
+        }
+    }
+}

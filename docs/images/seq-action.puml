@@ -1,0 +1,6 @@
+@startuml
+group Invoke
+Consumer -> Thing: POST /toggle HTTP/1.1
+Consumer <- Thing: 200 OK
+end
+@enduml
