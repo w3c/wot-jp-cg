@@ -5,13 +5,13 @@
 - Web of Things (WoT) Architecture
   - WoTを用いたIoTシステムの全体アーキテクチャの説明
   - [原文](https://www.w3.org/TR/wot-architecture/)
-  - [日本語訳](https://www.asahi-net.or.jp/~ax2s-kmtn/internet/wot/REC-wot-architecture-20200409.html)
+  - [日本語訳](https://wot-jp-community.github.io/wot-architecture/)
 
 
 - Web of Things (WoT) Thing Description
   - IoTデバイスを記述するためのThing Description文書の書き方の説明
   - [原文](https://www.w3.org/TR/wot-thing-description/)
-  - [日本語訳](https://www.asahi-net.or.jp/~ax2s-kmtn/internet/wot/REC-wot-thing-description-20200409.html)
+  - [日本語訳](https://wot-jp-community.github.io/wot-thing-description/)
 
 ## W3C Working Group ノート(Note)
 
