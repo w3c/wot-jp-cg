@@ -18,7 +18,9 @@ Node-REDでは、画面上で「ノード」と呼ばれる箱をつなぎ合わ
 
 下記に、Node-REDとNode Generatorを使ってランプを操作するデモビデオがありますので、参考にしてみてください。
 
-[Node Generatorによるフロー作成デモ](https://github.com/w3c/wot-marketing/raw/master/docs/developers/wot_nodegen.mp4)
+<video controls width="100%" src="https://raw.githubusercontent.com/w3c/wot-marketing/main/docs/developers/wot_nodegen.mp4"></video>
+
+[Node Generatorによるフロー作成デモ](https://raw.githubusercontent.com/w3c/wot-marketing/main/docs/developers/wot_nodegen.mp4)
 
 ## 作成するもの
 
