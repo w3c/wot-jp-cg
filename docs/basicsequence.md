@@ -1,8 +1,7 @@
 # WoTの基本的なシーケンス
 
-Web of Thingsでは、IoTデバイスとの相互作用をProperty、Action、
-Eventの3つに抽象化しています。理論的には、これらの相互作用に
-対して記述可能な任意のプロトコルを利用することができますが、
+Web of Thingsでは、IoTデバイスとの相互作用をProperty、Action、Eventの3つに抽象化しています。
+理論的には、これらの相互作用に対して記述可能な任意のプロトコルを利用できます。
 ここではHTTPを使った場合の典型的なシーケンスとThing Descriptionの記述を示します。
 
 <!-- Property, Action, Eventの簡単な説明をここに書く -->

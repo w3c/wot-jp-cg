@@ -42,10 +42,7 @@ Thing Descriptionを人が読んで理解して、アクセスするためのプ
 記述してもWoTは実現可能ですが、なんらかのツールを利用してアクセスするための
 基盤をつくるのが通常です。
 
-例えば、[Node-RED Node Generator](https://github.com/node-red/node-red-nodegen)は
-[Node-RED](https://nodered.org/)というグラフィカルなプログラミングツールから
-WoTのThingを扱えるようにするツールで、Thingを表す「ノード」とつなぎ合わせることで
-Thingを組み合わせたIoTソリューションを簡単に実装することができます。
+例えば、[Node-RED Node Generator](https://github.com/node-red/node-red-nodegen)は[Node-RED](https://nodered.org/)というグラフィカルなプログラミングツールからWoTのThingを扱えるようにするツールで、Thingを表す「ノード」とつなぎ合わせることでThingを組み合わせたIoTソリューションを簡単に実装できます。
 
 ![Node-RED Node Generatorの利用例](./images/nrnodegen.png)
 
