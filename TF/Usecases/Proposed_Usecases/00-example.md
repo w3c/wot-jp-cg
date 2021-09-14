@@ -42,7 +42,7 @@ WoTデバイスがテレビ番組に応じて動作する:
 * TVのHybridcastアプリケーションは、スマートホームデバイスに対して、テレビ番組に関する情報を送信する。（Hybridcastは、日本の放送通信連携システムである。Hybridcastアプリケーションは、Hybridcastテレビ上で動作するHTML5アプリケーションである。）
 * Hybridcast Connectアプリケーションはテレビからの情報を受信し、スマートホームデバイスを制御する。
 
-![picture 1](image/scenario_nhk.png)
+![picture 1](https://w3c.github.io/wot-usecases/images/scenario_nhk.png)
 
 ### セキュリティに関する配慮:
 
