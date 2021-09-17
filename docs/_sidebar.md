@@ -11,6 +11,7 @@
     - Thingの利用
       - [Node Generator for Node-REDを使ったThingの操作](nodegen-tutorial.md)
   - 例
+    - [気圧センサー BMP280](examples/bmp280/)
     - [温湿度センサー SHT3x](examples/sht3x/)
 
 - アウトリーチ

@@ -1,0 +1,39 @@
+{
+  "@context": "https://www.w3.org/2019/wot/td/v1",
+  "title": "BMP280",
+  "securityDefinitions": {
+    "nosec_sc": {
+      "scheme": "nosec"
+    }
+  },
+  "security": [
+    "nosec_sc"
+  ],
+  "properties": {
+    "bmp280": {
+      "title": "BMP280 Reading Sensor Data",
+      "type": "object",
+      "properties": {
+        "model": {
+          "const": "BMP280"
+        },
+        "pressure_hPa": {
+          "title": "Pressure (hPa)",
+          "type": "number"
+        },
+        "temperature_C": {
+          "title": "Temperatures in degrees Celsius",
+          "type": "number"
+        }
+      },
+      "forms": [
+        {
+          "href": "http://localhost:1880/bmp280",
+          "op": [
+            "readproperty"
+          ]
+        }
+      ]
+    }
+  }
+}
