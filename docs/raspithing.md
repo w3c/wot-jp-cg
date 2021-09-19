@@ -130,7 +130,7 @@ $ curl http://localhost:1880/led
 
 $ curl -X PUT -d '{"value":1}' -H 'content-type:application/json' http://localhost:1880/led
 {"value":1}   # LEDが点灯する
- 
+
 $ curl -X POST http://localhost:1880/toggle
 # LEDが消灯する
 
@@ -151,7 +151,7 @@ Web of Thingsでは、上記の仕様をThing Descriptionという
 
 詳細な仕様は[Web of Things (WoT) Thing Description](https://www.w3.org/TR/wot-thing-description/)にあります。
 
-Thing DescriptionはJSON-LDをベースとしたフォーマットになっています。ここまでに作成したモノのThing Descriptionをみていきます([Thing Description全体のダウンロード](./raspithingtd.jsonld))。
+Thing DescriptionはJSON-LDをベースとしたフォーマットになっています。ここまでに作成したモノのThing Descriptionをみていきます([Thing Description全体のダウンロード](https://raw.githubusercontent.com/w3c/wot-jp-cg/main/docs/raspithingtd.jsonld))。
 
 ```javascript
 {
