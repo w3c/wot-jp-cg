@@ -8,7 +8,7 @@
 
 ## W3C WoT-JP CGのRepository利用にあたっての基本方針
 W3C WoT-JP CGでは下記の基本方針に注意の上、ご利用ください。
-* [CGチャーター](https://w3c.github.io/wot-jo-cg/CGCharter.html)
+* [CGチャーター](https://w3c.github.io/wot-jp-cg/CGCharter.html)
 * [本リポジトリへの貢献について](https://github.com/w3c/wot-jp-cg/blob/main/CONTRIBUTING.md)
 * [本リポジトリのライセンス](https://github.com/w3c/wot-jp-cg/blob/main/LICENSE.md)
 * [本リポジトリの行動規範](https://github.com/w3c/wot-jp-cg/blob/main/CODE_OF_CONDUCT.md)
