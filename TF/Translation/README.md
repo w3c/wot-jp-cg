@@ -7,7 +7,7 @@ WoT活動の普及促進のためにWoT関連情報を翻訳 (英日/日英)
 芦村和幸 (W3C/慶應)
 
 ## 参加者
-- 浅井智也 (WebDINO Japan)
+* 浅井智也 (WebDINO Japan)
 * 篠田有崇（WebDINO Japan）
 * 水嶌友昭 (インターネット総合研究所)
 
