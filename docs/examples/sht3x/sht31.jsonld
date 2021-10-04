@@ -1,0 +1,39 @@
+{
+  "@context": "https://www.w3.org/2019/wot/td/v1",
+  "title": "SHT31",
+  "securityDefinitions": {
+    "nosec_sc": {
+      "scheme": "nosec"
+    }
+  },
+  "security": [
+    "nosec_sc"
+  ],
+  "properties": {
+    "sht31": {
+      "title": "SHT31 Reading Sensor Data",
+      "type": "object",
+      "properties": {
+        "model": {
+          "const": "SHT31"
+        },
+        "temperature_C": {
+          "title": "Temperatures in degrees Celsius",
+          "type": "number"
+        },
+        "humidity": {
+          "title": "Humidity",
+          "type": "number"
+        }
+      },
+      "forms": [
+        {
+          "href": "http://localhost:1880/sht31",
+          "op": [
+            "readproperty"
+          ]
+        }
+      ]
+    }
+  }
+}
