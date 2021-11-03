@@ -1,7 +1,7 @@
 # Hue 電球 ホワイトグラデーション
 
 [Philips Hue スマート電球 ホワイトグラデーション](https://www.philips-hue.com/ja-jp/p/hue-white-ambiance-1-pack-e26/8718699722302)
-のための Thing です。[WoTify](https://wotify.org/ )にある Thing Description を元に、Node-RED と node-red-nodegen を使用します。
+を Thing として扱うための手順です。[WoTify](https://wotify.org/ )にある Thing Description を元に、Node-RED と node-red-nodegen を使用します。
 
 本サンプルでは、REST API が既に用意されており、エンドポイントを決め、API の URL を Thing Description、ノードモジュールへと対応づける例として、 Hue を取り上げ WoT 化を行います。  
 
