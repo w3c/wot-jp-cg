@@ -11,8 +11,11 @@
     - Thingの利用
       - [Node Generator for Node-REDを使ったThingの操作](nodegen-tutorial.md)
   - 例
-    - [気圧センサー BMP280](examples/bmp280/)
-    - [温湿度センサー SHT3x](examples/sht3x/)
+    - Raspberry Pi
+      - [気圧センサー BMP280](examples/bmp280/)
+      - [温湿度センサー SHT3x](examples/sht3x/)
+    - スマート家電（APIの利用）
+      - [Hue 電球 ホワイトグラデーション](examples/hue-white-light/)
 
 - アウトリーチ
   - [CG関連イベント](event.md)
@@ -29,4 +32,3 @@
 
 - [ライセンス](LICENSE.md)
 - [Code of Conduct](CODE_OF_CONDUCT.md)
-
