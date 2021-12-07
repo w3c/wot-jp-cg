@@ -19,15 +19,15 @@
 pip install pymycobot --upgrade
 ```
 
-その他、USB ドライバのインストールが必要な場合もございます。myCobot のセットアップ手順や詳しい説明に関しては、公式ページ等をご確認ください。
+その他、USB ドライバのインストールが必要な場合もあります。myCobot のセットアップ手順や詳しい説明に関しては、公式ページ等をご確認ください。
 
 ## WoTPy を用いた Thing の作成例
 
 WoTPy を使用して Python で Thing を作成していきます。
 
-今回は、Property でサーボモータの角度の取得、Action でサーボモータの操作を行います。
+今回は、プロパティでサーボモータの角度の取得、アクションでサーボモータの操作を行います。
 
-本サンプルのコード例全体は[こちら](https://github.com/hidessy/wot-examples/blob/main/mycobot/mycobot.py)にございます。  
+本サンプルのコード例全体は[こちら](https://github.com/hidessy/wot-examples/blob/main/mycobot/mycobot.py)です。  
 また、WoTPy の GitHub 上の[サンプル](https://github.com/agmangas/wot-py/tree/develop/examples)も合わせてご参照ください。
 
 ### Thing Description の作成
@@ -53,9 +53,9 @@ TD = {
 ...
 ```
 
-上記の部分でそれぞれ、Property, Action の定義を行ないます。なお、セキュリティの定義については、何も定義していない場合、WoTPy では nosec が適用されます。
+上記の部分でそれぞれ、プロパティとアクションの定義を行ないます。なお、セキュリティの定義については、何も定義していない場合、WoTPy では `nosec` が適用されます。
 
-Property では、myCobot の6つのサーボモータの角度を取得することから、それぞれの角度を `"type": "number"` とし、 `"minimum"` と `"maximum"` をそれぞれ下記のように定義していきます。
+`properties` では、myCobot の6つのサーボモータの角度を取得することから、それぞれの角度を `"type": "number"` とし、 `"minimum"` と `"maximum"` をそれぞれ下記のように定義していきます。
 
 ```python
 ...
@@ -80,7 +80,7 @@ Property では、myCobot の6つのサーボモータの角度を取得する�
 ...
 ```
 
-Action でもそれぞれのサーボモータの操作を行うために、Property と同様に定義するとともに、サーボモータを自由に移動できるようにするために、下記のようにサーボモータのロックを解除する action を `"boolean"` で定義します。
+`actions` でもそれぞれのサーボモータの操作を行うために、`properties` と同様に定義するとともに、サーボモータを自由に移動できるようにするために、下記のようにサーボモータのロックを解除するアクションを `"boolean"` で定義します。
 
 ```python
 ...
@@ -115,7 +115,7 @@ Thing Description についての詳細は、
 
 ### Handler の追加
 
-`angles` の Property が読まれた際に、Python API の `get_angles()` を使用して角度を取得する Handler の追加を行います。
+`angles` のプロパティが読まれた際に、Python API の `get_angles()` を使用して角度を取得する Handler の追加を行います。
 
 ```python
 ...
@@ -134,8 +134,8 @@ Thing Description についての詳細は、
 ...
 ```
 
-Action でも同様に、`sendAngles`, `releaseServos` にそれぞれ POST された際の処理を追加します。ここでは、 `send_angles(degrees, speed)`, `release_all_servos()` を使用し、myCobot の角度を指定して操作及び、サーボモータのロックの解除を行います。  
-下記は `sendAngles` の Action の処理です。
+アクションでも同様に、`sendAngles`, `releaseServos` にそれぞれ POST された際の処理を追加します。ここでは、 `send_angles(degrees, speed)`, `release_all_servos()` を使用し、myCobot の角度を指定して操作及び、サーボモータのロックの解除を行います。  
+下記は `sendAngles` のアクションの処理です。
 
 ```python
 ...
