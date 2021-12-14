@@ -203,6 +203,6 @@ $ curl -X POST -d '{"input":{"release":"True"}}' -H 'content-type:application/js
 
 下記は、curl で myCobot のプロパティの読み取りとアクションを実行しているデモビデオです。
 
-<video controls width="100%" src="mycobot-demo.mp4"></video>
+![myCobot操作デモ](mycobot-demo.mp4 ':controls :width=100%')
 
 [myCobot操作デモ](mycobot-demo.mp4)
