@@ -30,8 +30,26 @@ WoT活動の普及促進のためには，英語に不慣れな日本のコミ�
   * 対象の絞り込みが必要
 
 ## 取組方針・手順
-* まずは，引き続きThing Description仕様書を日本語化 (Downstream)
-* 日本におけるWoT関連情報を英語化 (Upstream)
+### 取組方針
+* GitHub上で，WoT ArchitectureおよびWoT Thing Descriptionの翻訳作業
+  * WoT Architecture: https://github.com/wot-jp-community/wotarchitecture
+  * WoT Thing Description: https://github.com/wot-jp-community/wotthing-description
+
+### 作業手順
+* ボランティアベースでのWoT Architecture翻訳作業を通して作業手順明確化
+  * 日本語翻訳物作成手順 (案): https://github.com/wot-jp-community/wot-downstream
+  * 翻訳ガイドライン (用語統一等): https://github.com/wot-jp-community/wot-downstream/blob/master/guideline.md
+  * サポートツール類: https://github.com/wot-jp-community/wot-downstream/tree/master/tools
+
+### 現状とこれから
+* 既に，WoT Architecture仕様書は，日本語翻訳完了
+  * 英語原本: https://www.w3.org/TR/2020/REC-wot-architecture-20200409/
+  * 日本語原本: https://wot-jp-community.github.io/wot-architecture/
+* 日本語翻訳結果はTTC (情報通信技術委員会) に移管しTTC標準化
+  * WoT Architecture日本語のTTC標準: https://www.ttc.or.jp/document_db/information/view_express_entit
+y/1388
+* 引き続きThing Description仕様書を日本語化，そしてTTC標準化 (Downstream)
+* 必要に応じて，日本におけるWoT関連情報も英語化 (Upstream)
 
 ### 参考
 * [W3C勧告文書の日本語翻訳物作成手順 (案)](https://github.com/wot-jp-community/wot-downstream)
