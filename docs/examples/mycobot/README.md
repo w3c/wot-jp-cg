@@ -9,7 +9,7 @@
 本サンプルでは、wotpy 0.16.0, pymycobot 2.6.1 を使用しています。  
 最新の情報や詳細は、[WoTPy GitHub](https://github.com/agmangas/wot-py) や [WoTPy のドキュメント](https://agmangas.github.io/wot-py/)をご確認ください。
 
-<img src="mycobot.png" width="300">
+![myCobot280の写真](mycobot.png ':size=300')
 
 ## myCobot のセットアップ
 
