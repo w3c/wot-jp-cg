@@ -36,7 +36,7 @@ WoT活動の普及促進のためには，英語に不慣れな日本のコミ�
   * WoT Thing Description: https://github.com/wot-jp-community/wotthing-description
 
 ### 作業手順
-* ボランティアベースでのWoT Architecture翻訳作業を通して作業手順明確化
+* ボランティアベースでのWoT Architecture翻訳作業を通して作業手順案を明確化
   * 日本語翻訳物作成手順 (案): https://github.com/wot-jp-community/wot-downstream
   * 翻訳ガイドライン (用語統一等): https://github.com/wot-jp-community/wot-downstream/blob/master/guideline.md
   * サポートツール類: https://github.com/wot-jp-community/wot-downstream/tree/master/tools
