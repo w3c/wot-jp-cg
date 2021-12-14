@@ -51,7 +51,7 @@ y/1388
 * 引き続きThing Description仕様書を日本語化，そしてTTC標準化 (Downstream)
 * 必要に応じて，日本におけるWoT関連情報も英語化 (Upstream)
 
-### 参考
+### ※関連情報
 * [W3C勧告文書の日本語翻訳物作成手順 (案)](https://github.com/wot-jp-community/wot-downstream)
 * [翻訳ガイドライン](https://github.com/wot-jp-community/wot-downstream/blob/master/guideline.md)
 * [サポートツール類](https://github.com/wot-jp-community/wot-downstream/tree/master/tools)
