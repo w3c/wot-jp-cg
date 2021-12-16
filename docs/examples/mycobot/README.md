@@ -9,6 +9,8 @@
 本サンプルでは、wotpy 0.16.0, pymycobot 2.6.1 を使用しています。  
 最新の情報や詳細は、[WoTPy GitHub](https://github.com/agmangas/wot-py) や [WoTPy のドキュメント](https://agmangas.github.io/wot-py/)をご確認ください。
 
+![myCobot280の写真](mycobot.png ':size=300')
+
 ## myCobot のセットアップ
 
 今回は、myCobot に Transponder というファームウェアを書き込むことで、パソコンから Python API を用いて myCobot を操作します。ファームウェアの書き込みには、[myStudio](https://www.elephantrobotics.com/en/downloads/) を使用することで、GUI 画面で書き込みが出来ます。
@@ -198,3 +200,9 @@ $ curl -X POST -d '{"input":{"angle1":-100, "angle2":100}}' -H 'content-type:app
 $ curl -X POST -d '{"input":{"release":"True"}}' -H 'content-type:application/json' http://<ip address>:9494/mycobot-.../action/releaseservos
 {"invocation": "/invocation/..."}
 ```
+
+下記は、curl で myCobot のプロパティの読み取りとアクションを実行しているデモビデオです。
+
+[myCobot操作デモ](mycobot-demo.mp4 ':include controls width=100%')
+
+[myCobot操作デモ](mycobot-demo.mp4)
