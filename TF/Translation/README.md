@@ -49,6 +49,8 @@ WoT活動の普及促進のためには，英語に不慣れな日本のコミ�
   * WoT Architecture日本語のTTC標準: https://www.ttc.or.jp/document_db/information/view_express_entity/1388
 * 引き続きThing Description仕様書を日本語化，そしてTTC標準化 (Downstream)
 * 必要に応じて，日本におけるWoT関連情報も英語化 (Upstream)
+* より広い対象に向けて情報発信するべく，翻訳ソンやモクモク会的なイベントの開催についても検討
+
 
 ### ※関連情報
 * [W3C勧告文書の日本語翻訳物作成手順 (案)](https://github.com/wot-jp-community/wot-downstream)
