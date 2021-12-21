@@ -32,8 +32,8 @@ WoT活動の普及促進のためには，英語に不慣れな日本のコミ�
 ## 取組方針・手順
 ### 取組方針
 * GitHub上で，WoT ArchitectureおよびWoT Thing Descriptionの翻訳作業
-  * WoT Architecture: https://github.com/wot-jp-community/wotarchitecture
-  * WoT Thing Description: https://github.com/wot-jp-community/wotthing-description
+  * WoT Architecture: https://github.com/wot-jp-community/wot-architecture
+  * WoT Thing Description: https://github.com/wot-jp-community/wot-thing-description
 
 ### 作業手順
 * ボランティアベースでのWoT Architecture翻訳作業を通して作業手順案を明確化
