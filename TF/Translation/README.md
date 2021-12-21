@@ -46,8 +46,7 @@ WoT活動の普及促進のためには，英語に不慣れな日本のコミ�
   * 英語原本: https://www.w3.org/TR/2020/REC-wot-architecture-20200409/
   * 日本語原本: https://wot-jp-community.github.io/wot-architecture/
 * 日本語翻訳結果はTTC (情報通信技術委員会) に移管しTTC標準化
-  * WoT Architecture日本語のTTC標準: https://www.ttc.or.jp/document_db/information/view_express_entit
-y/1388
+  * WoT Architecture日本語のTTC標準: https://www.ttc.or.jp/document_db/information/view_express_entity/1388
 * 引き続きThing Description仕様書を日本語化，そしてTTC標準化 (Downstream)
 * 必要に応じて，日本におけるWoT関連情報も英語化 (Upstream)
 
