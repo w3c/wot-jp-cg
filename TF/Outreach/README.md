@@ -16,6 +16,8 @@ W3C WoT規格の普及に向けて、国内の団体・企業・開発者コミ�
 * 太田浩史 (Yahoo!JAPAN)
 * 水嶌友昭 (インターネット総合研究所)
 * 羽田野太巳 (Newphoria)
+* 塩濱大平 (Media Do International, Inc.)
+* 松本渉 (Media Do International, Inc.)
 
 ## 背景
 
