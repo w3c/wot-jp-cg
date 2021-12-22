@@ -1,4 +1,4 @@
-# W3C Web of Things Japanese Community Group (Draft)
+# W3C Web of Things Japanese Community Group
 
 [W3C Web of Things Japanese Community Group (W3C WoT-JP CG)](https://www.w3.org/community/wot-jp/) において実施する活動や実装するコードに関する提案は次のようなプロセスで議論・合意の上で進めます。
 
