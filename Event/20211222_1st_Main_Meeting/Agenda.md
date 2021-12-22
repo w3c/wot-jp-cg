@@ -6,7 +6,7 @@
 * 司会
   * 水嶌 
 * 議事録URL
-
+  * https://hackmd.io/QcDkNrnqQwSAXldoPSbd2g
 * 注意事項
   * 議事録はhackmdを使用します。
   * 議事録の内容について、特に発言者は各自確認をしてください。
