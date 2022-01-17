@@ -13,7 +13,7 @@ Thing Descriptionは、Web of Things (WoT) の中心的な構成要素であり�
 Thing Descriptionを介することで、さまざまなIoT (Internet of Things) プラットフォームおよびアプリケーションを、容易に統合化することが可能となります。  
 いわばWoTは、サイロと化したIoTのそれぞれのPlatform全体の屋根という役割を果たすものです。
 
-![Web of Things (WoT) について](images/platform-wot.png ':size=350')
+![Web of Things (WoT) について](images/platform-wot.png ':size=450')  
 (出典:[第1回 WoT-JP CG全体会議 資料 : WoTの現状とビジョン p14](https://github.com/w3c/wot-jp-cg/blob/main/Event/20211222_1st_Main_Meeting/20211222-WoT-JP_CG_Ashimura.pdf))
 
 ## Thingを作る/WoT対応にするには?
