@@ -1,16 +1,16 @@
 # Web of Thingsについて
 
-Web of Things (WoT) とは、Web のレベルにおける『モノ』の記述の標準化であり、IoTプラットフォームとアプリケーション領域にまたがる相互運用性の実現を目的としているものです。
+Web of Things (WoT) とは、Web のレベルにおける『モノ』の記述の標準化であり、IoT (Internet of Things) プラットフォームとアプリケーション領域にまたがる相互運用性の実現を目的としているものです。
 
 Web of Thingsは、スマートホーム、製造業、スマートシティ、小売業、ヘルスケアアプリ等の複数の IoT 領域に応用が可能であり、W3CのWoT標準を利用することにより、複数のベンダやエコシステムが提供するデバイスを組み合わせたIoTシステムの開発を簡単なものとします。
 
 ![Web of Things (WoT) について](images/overview-jp-td.png)
 (出典:[Web of Things (WoT) Architecture 和訳: 図18 W3C WoTの抽象アーキテクチャ](https://wot-jp-community.github.io/wot-architecture/#architecture-abstract) 一部改変)
 
-様々なモノやデバイスを統合し相互運用を実現するために、それぞれのモノやデバイスのエントリポイントとして、WoT Thing Description (TD)が用いられます(ウェブサイトのindex.htmlとよく似ている)。  
+様々なモノやデバイスを統合し相互運用を実現するために、それぞれのモノやデバイスのエントリポイントとして、WoT Thing Description (TD)が用いられます(ウェブサイトのindex.htmlとよく似ています)。  
 Thing Descriptionは、Web of Things (WoT) の中心的な構成要素であり、プログラミング言語やプロトコルに依存しないメタフレームワークです。
 
-Thing Descriptionを介することで、さまざまなIoT (Internet of Things) プラットフォームおよびアプリケーションを、容易に統合化することが可能となります。  
+Thing Descriptionを介することで、さまざまなIoTプラットフォームおよびアプリケーションを、容易に統合化することが可能となります。  
 いわばWoTは、サイロと化したIoTのそれぞれのPlatform全体の屋根という役割を果たすものです。
 
 ![Web of Things (WoT) について](images/platform-wot.png ':size=450')  
