@@ -69,16 +69,21 @@ base URI の`<deviceId>`の箇所は、セットアップで確認したデバ�
           "description": "Contact Sensor information from the Hub",
           "type": "object",
           "properties": {
-              "deviceId": {
-                  "type": "string",
-                  "readOnly": true,
-                  "writeOnly": false
-              },
-              ......
-              "openState": {
-                  "type": "string",
-                  "readOnly": true,
-                  "writeOnly": false
+              "body": {
+                  "type": "object",
+                  "properties": {
+                    "deviceId": {
+                        "type": "string",
+                        "readOnly": true,
+                        "writeOnly": false
+                    },
+                    ......
+                    "openState": {
+                        "type": "string",
+                        "readOnly": true,
+                        "writeOnly": false
+                    }
+                  }
               }
           },
           "forms": [
@@ -112,7 +117,7 @@ npm --prefix ~/.node-red install ./node-red-contrib-wotswitchbotcontactsensor
 下記のように SwitchBot Contact Sensor のノードを編集することで、開閉センサーの状態を表示することができます。
 
 - Interaction: Property
-- Name: body
+- Name: state
 - Access: Read
 - Form: `bearer https://api.switch-bot...`
 - Token: 取得したトークン
