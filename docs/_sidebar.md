@@ -16,6 +16,7 @@
       - [温湿度センサー SHT3x](examples/sht3x/)
     - スマート家電（APIの利用）
       - [Hue 電球 ホワイトグラデーション](examples/hue-white-light/)
+      - [SwitchBot 開閉センサー](examples/switchbot-contact-sensor/)
     - ロボット（Python APIの利用）
       - [ロボットアーム myCobot 280](examples/mycobot/)
 
