@@ -1,4 +1,31 @@
-# W3C勧告など
+# WoT 仕様の全体像
+
+WoT仕様の全体像や構成要素について、仕様書の関係を説明するとともに、それぞれの仕様を示します。  
+
+## WoT 仕様構成要素
+
+WoTは、下記の計8個の仕様によって構成されています。
+
+- Normative Deliverables
+  - Web of Things (WoT) Architecture
+  - Web of Things (WoT) Thing Description
+  - Web of Things (WoT) Discovery
+  - Web of Things (WoT) Profile
+- Informative Deliverables
+  - Web of Things (WoT) Scripting API
+  - Web of Things (WoT) Binding Templates
+  - Web of Things (WoT) Security and Privacy Guidelines
+  - Web of Things (WoT) Use Cases and Requirements
+
+このようにWoTは、基準となる(Normative)仕様として、W3C勧告(Recommendation)の[Architecture](https://wot-jp-community.github.io/wot-architecture/)および[Thing Description](https://wot-jp-community.github.io/wot-thing-description/)を基盤とし、それらに[Discovery](https://w3c.github.io/wot-discovery/)と[Profile](https://w3c.github.io/wot-profile/)を加えたものが定められています。  
+これらのNormativeな仕様は、[Use Cases and Requirements](https://www.w3.org/TR/wot-usecases/)を始点とし、[Security and Privacy Guidelines](https://www.w3.org/TR/wot-security/)という観点からも議論がなされています。  
+また、[Scripting API](https://www.w3.org/TR/wot-scripting-api/)や[Binding Templates](https://www.w3.org/TR/wot-binding-templates/)も重要な構成要素として、W3C Working Group ノート(Note)によって示されています。   
+詳細は後述の説明や仕様をご確認ください。
+
+これらの仕様が例えば、下図の黒の輪郭線で強調表示されている箇所のように、Web Thing や Thing のアーキテクチャの側面に対して関係しています。
+
+![Thing と Thing Descriptionの関係](https://wot-jp-community.github.io/wot-architecture/images/abstract.svg)
+(出典:[Web of Things (WoT) Architecture 和訳: 図25 Thingのアーキテクチャの側面に対するWoT構成要素の関係](https://wot-jp-community.github.io/wot-architecture/#arch-building-blocks))
 
 ## W3C勧告(Recommendation)
 
@@ -26,6 +53,11 @@
 - Web of Things (WoT) Security and Privacy Guidelines
   - WoTをつかってシステムを構築する際のセキュリティおよびプライバシーに関する指針。
   - [原文](https://www.w3.org/TR/wot-security/)
+
+## W3C Interest Group ノート(Note)
+- Web of Things (WoT) Use Cases and Requirements
+  - WoTの全体像や個別の機能仕様を具体例・ユースケースを通して説明している。
+  - [原文](https://www.w3.org/TR/wot-usecases/)
 
 ## W3C ドラフト (Draft)
 - Web of Things (WoT) Discovery
