@@ -5,6 +5,15 @@
 
 本サンプルでは、REST API が既に用意されており、エンドポイントを決め、API の URL を Thing Description、ノードモジュールへと対応づける例として、 Hue を取り上げ WoT 化を行います。  
 
+### 必要なもの
+- ハードウェア
+  - [Philips Hue ブリッジ](https://www.philips-hue.com/ja-jp/p/hue-bridge/8719514342460)
+  - [Philips Hue スマート電球 ホワイトグラデーション](https://www.philips-hue.com/ja-jp/p/hue-white-ambiance-1-pack-e26/8718699722302)
+  - Hueと同一のネットワーク上にあるPCやRaspberry Piなど
+- ソフトウェア
+  - [Node-RED v2.0 以降](https://nodered.org/)
+  - [Node Generator (node-red-nodegen)](https://github.com/node-red/node-red-nodegen)
+
 ## Hueのセットアップ
 
 公式の開発者ページ
@@ -162,3 +171,14 @@ Thing Description の`actions`の一部を引用し注目すると、電球の�
 - Form: `nosec http://...`
 
 ![使用例](hue-white-light-action.png)
+
+## 応用例 (ディマースイッチ・ブリッジ)
+
+同様の手順で、
+[Hue ディマースイッチ](https://www.philips-hue.com/ja-jp/p/hue-dimmer-switch--latest-model-/8719514274655)や
+[Hue ブリッジ](https://www.philips-hue.com/ja-jp/p/hue-bridge/8719514342460)
+をThingとして扱うことができます。  
+下記の[WoTify](https://wotify.org/ )にある Thing Description を元に、それぞれWoT化が可能です。
+
+- [Philips HUE Dimmer Switch の Thing Description](https://wotify.org/library/Philips%20HUE%20Dimmer%20Switch/general)
+- [Philips HUE Bridge の Thing Description](https://wotify.org/library/Philips%20HUE%20Bridge/general)

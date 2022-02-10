@@ -4,6 +4,17 @@
 
 本サンプルでは、REST API が既に用意されているものから、Thing Description を作成し、ノードモジュールへと対応づける例として、 SwitchBot を取り上げ WoT 化を行います。  
 
+### 必要なもの
+- ハードウェア
+  - SwitchBot Hub Plus または [Hub Mini](https://www.switchbot.jp/collections/all/products/switchbot-hub-mini)
+  - [SwitchBot開閉センサー](https://www.switchbot.jp/collections/all/products/contact-sensor)
+  - スマートフォン
+  - PCやRaspberry Piなど
+- ソフトウェア
+  - [SwitchBot アプリ](https://www.switchbot.jp/)
+  - [Node-RED v2.0 以降](https://nodered.org/)
+  - [Node Generator (node-red-nodegen)](https://github.com/node-red/node-red-nodegen)
+
 ## SwitchBotハブのセットアップ
 
 [SwitchBotAPI](https://github.com/OpenWonderLabs/SwitchBotAPI) のページに従い進めていきます。  

@@ -5,6 +5,15 @@
 
 本サンプルでは、[WoTPy](https://github.com/agmangas/wot-py) を使用して既存の Python API を Restful API として操作出来るようにする例として、[myCobot](https://www.elephantrobotics.com/en/mycobot-en/) を取り上げ WoT 化 を行います。
 
+### 必要なもの
+- ハードウェア
+  - [myCobot 280](https://www.elephantrobotics.com/en/mycobot-en/)
+  - PCやRaspberry Piなど
+- ソフトウェア
+  - Python 3.7 以降
+  - [WoTPy (wotpy 0.16.0)](https://github.com/agmangas/wot-py)
+  - [pymycobot (2.6.1)](https://github.com/elephantrobotics/pymycobot)
+
 なお本サンプルでは、試験的実装段階の [WoTPy](https://github.com/agmangas/wot-py) を使用しているため、最新の情報や変更にご注意の上、ご利用ください。
 本サンプルでは、wotpy 0.16.0, pymycobot 2.6.1 を使用しています。  
 最新の情報や詳細は、[WoTPy GitHub](https://github.com/agmangas/wot-py) や [WoTPy のドキュメント](https://agmangas.github.io/wot-py/)をご確認ください。
