@@ -1,4 +1,4 @@
-- WoTについて
+- Web of Things (WoT)について
   - [Web of Thingsについて](about.md)
   - [WoT-JP CGについて](aboutcg.md)
 
@@ -11,7 +11,7 @@
     - Thingの利用
       - [Node Generator for Node-REDを使ったThingの操作](nodegen-tutorial.md)
 
-- 実装例
+- Thingの実装例
   - センサーのWoT化
     - [気圧センサー (BMP280 + Raspberry Pi)](examples/bmp280/)
     - [温湿度センサー (SHT3x + Raspberry Pi)](examples/sht3x/)
