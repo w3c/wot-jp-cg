@@ -3,6 +3,16 @@
 [BOSCH 気圧センサー BMP280](https://www.bosch-sensortec.com/products/environmental-sensors/pressure-sensors/bmp280/) のための Thing です。
 Node-RED とノードモジュール [node-red-contrib-bme280](https://www.npmjs.com/package/node-red-contrib-bme280) を使用します。
 
+### 必要なもの
+- ハードウェア
+  - Raspberry Pi 3以降
+  - [BOSCH 気圧センサー BMP280](https://www.bosch-sensortec.com/products/environmental-sensors/pressure-sensors/bmp280/)
+  - ジャンパワイヤ、ブレッドボードなど
+- ソフトウェア
+  - [Node-RED v2.0 以降](https://nodered.org/)
+  - [BME280制御用ノードモジュール (node-red-contrib-bme280)](https://flows.nodered.org/node/node-red-contrib-bme280)
+  - [Node Generator (node-red-nodegen)](https://github.com/node-red/node-red-nodegen)
+
 ## 配線図
 
 I<sup>2</sup>C を利用して下記の図のように接続します。

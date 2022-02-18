@@ -3,6 +3,16 @@
 [Sensirion 温湿度センサー SHT3x シリーズ](https://www.sensirion.com/jp/environmental-sensors/humidity-sensors/digital-humidity-sensors-for-various-applications/)のための Thing です。
 Node-RED とノードモジュール [node-red-contrib-sht31](https://www.npmjs.com/package/node-red-contrib-sht31) を使用します。
 
+### 必要なもの
+- ハードウェア
+  - Raspberry Pi 3以降
+  - [Sensirion 温湿度センサー SHT3x シリーズ](https://www.sensirion.com/jp/environmental-sensors/humidity-sensors/digital-humidity-sensors-for-various-applications/)
+  - ジャンパワイヤ、ブレッドボードなど
+- ソフトウェア
+  - [Node-RED v2.0 以降](https://nodered.org/)
+  - [SHT3x制御用ノードモジュール (node-red-contrib-sht31)](https://flows.nodered.org/node/node-red-contrib-sht31)
+  - [Node Generator (node-red-nodegen)](https://github.com/node-red/node-red-nodegen)
+
 ## 配線図
 
 I<sup>2</sup>C を利用して下記の図のように接続します。

@@ -1,8 +1,8 @@
-- はじめに
+- Web of Things (WoT)について
   - [Web of Thingsについて](about.md)
   - [WoT-JP CGについて](aboutcg.md)
 
-- デプロイメント
+- ドキュメント
   - WoT入門
     - [WoTの基本的なシーケンス](basicsequence.md)
   - チュートリアル
@@ -10,24 +10,19 @@
       - [RaspberryPiでThingを作る](raspithing.md)
     - Thingの利用
       - [Node Generator for Node-REDを使ったThingの操作](nodegen-tutorial.md)
-  - 例
-    - Raspberry Pi
-      - [気圧センサー BMP280](examples/bmp280/)
-      - [温湿度センサー SHT3x](examples/sht3x/)
-    - スマート家電（APIの利用）
-      - [Hue 電球 ホワイトグラデーション](examples/hue-white-light/)
-      - [SwitchBot 開閉センサー](examples/switchbot-contact-sensor/)
-    - ロボット（Python APIの利用）
-      - [ロボットアーム myCobot 280](examples/mycobot/)
 
-- アウトリーチ
-  - [CG関連イベント](event.md)
+- Thingの実装例
+  - センサーのWoT化
+    - [気圧センサー (BMP280 + Raspberry Pi)](examples/bmp280/)
+    - [温湿度センサー (SHT3x + Raspberry Pi)](examples/sht3x/)
+  - IoTデバイス (REST APIが取得可能) のWoT化
+    - [Hue (電球 ホワイトグラデーション)](examples/hue-white-light/)
+    - [SwitchBot (開閉センサー)](examples/switchbot-contact-sensor/)
+  - 外部フレームワークを利用したWoT化
+    - [ロボットアーム (WoTPy × myCobot 280)](examples/mycobot/)
 
-- ダウンストリーム
-  - [WoT勧告の翻訳](translation.md)
-
-- 関連文書
-  - [W3C勧告など](recs.md)
+- WoT仕様
+  - [WoT仕様の全体像](recs.md)
 
 - [その他・リンク集](misc.md)
 
