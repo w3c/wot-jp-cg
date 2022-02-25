@@ -18,7 +18,7 @@ Thing Descriptionを介することで、さまざまなIoTプラットフォー
 
 また、WoTの全体像や標準化については、こちらのスライドも参考としてご覧ください。
 
-<iframe src="./20211222-WoT-JP_CG_Ashimura.pdf" width="100%" height="500px"></iframe>
+<iframe src="../Event/20211222_1st_Main_Meeting/20211222-WoT-JP_CG_Ashimura.pdf" width="100%" height="500px"></iframe>
 
 [第1回 WoT-JP CG全体会議 スライド資料 : WoTの現状とビジョン](https://github.com/w3c/wot-jp-cg/blob/main/Event/20211222_1st_Main_Meeting/20211222-WoT-JP_CG_Ashimura.pdf)
 
