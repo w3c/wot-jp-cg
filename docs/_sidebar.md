@@ -23,6 +23,7 @@
 
 - WoT仕様
   - [WoT仕様の全体像](recs.md)
+  - [WoT Thing Descriptionとは](td.md)
 
 - [その他・リンク集](misc.md)
 
