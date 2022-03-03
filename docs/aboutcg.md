@@ -31,6 +31,7 @@ Web of Things Japanese Community Group (WoT-JP CG) は、
 * 目的
 	* W3C WoT規格の認知度向上と普及。認知度向上に関しては、特に、非Web/IT企業、W3C規格になじみのない産業領域へのアプローチを行う
 	* 普及に関しては、ボトムアップの開発者コミュニティに加え、潜在的にWoT規格を採択し得る他標準化団体もターゲットとする
+
 ### [ユースケースTF](https://github.com/w3c/wot-jp-cg/tree/main/TF/Usecases)
 * 概要
 	* WoTの社会実装に向けた、日本発のユースケースや実装例の創出
