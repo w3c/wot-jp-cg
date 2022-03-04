@@ -10,7 +10,7 @@ Web of Things Japanese Community Group (WoT-JP CG) は、
 ## WoT-JP CG の活動内容
 現在は活動目的を叶えるために、以下のタスクフォースを作り、それぞれの目的に応じて活動をしています。
 
-![WoT-JP CG の活動](https://user-images.githubusercontent.com/80234020/156139159-854f5d05-a450-417d-a7ea-30c8b657bfc1.png)
+![WoT-JP CG の活動](images/taskforces.png)
 
 各タスクフォースの活動内容です。
 更に詳細な活動内容はリンク先の TF活動提案書もご覧ください。
@@ -57,7 +57,7 @@ Web of Things Japanese Community Group (WoT-JP CG) は、
 それぞれの活動で得た情報の交換、提案、作業貢献などで相互連携が出来るように活動をしております。
 [W3C WoT サイト](https://www.w3.org/WoT/cg/)にも WoT-JP CG の紹介が掲載されています。
 
-![WoT-JP CG と WoT WG/IG との関係](https://user-images.githubusercontent.com/80234020/156139326-d73c6ad1-f9d3-4134-abb2-c6b36305b747.png)
+![WoT-JP CG と WoT WG/IG との関係](images/cg-relations.png)
 
 ## WoT-JP CG への参加方法
 
