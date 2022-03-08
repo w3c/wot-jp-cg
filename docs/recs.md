@@ -22,6 +22,9 @@ WoTは、下記の計8個の仕様によって構成されています。
 また、[Scripting API](https://www.w3.org/TR/wot-scripting-api/)や[Binding Templates](https://www.w3.org/TR/wot-binding-templates/)も重要な構成要素として、W3C Working Group ノート(Note)によって示されています。   
 詳細は後述の説明や仕様をご確認ください。
 
+仕様書の関係をイメージとして図示したものが下図のものとなります。
+![Web of Things (WoT) について](images/architecture.svg)
+
 これらの仕様が例えば、下図の黒の輪郭線で強調表示されている箇所のように、Web Thing や Thing のアーキテクチャの側面に対して関係しています。
 
 ![Thing と Thing Descriptionの関係](https://wot-jp-community.github.io/wot-architecture/images/abstract.svg)

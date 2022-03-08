@@ -16,6 +16,12 @@ Thing Descriptionを介することで、さまざまなIoTプラットフォー
 ![Web of Things (WoT) について](images/platform-wot.png ':size=450')  
 (出典:[第1回 WoT-JP CG全体会議 資料 : WoTの現状とビジョン p14](https://github.com/w3c/wot-jp-cg/blob/main/Event/20211222_1st_Main_Meeting/20211222-WoT-JP_CG_Ashimura.pdf))
 
+また、WoTの全体像や標準化については、こちらのスライドも参考としてご覧ください。
+
+<iframe src="https://docs.google.com/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fw3c%2Fwot-jp-cg%2Fmain%2FEvent%2F20211222_1st_Main_Meeting%2F20211222-WoT-JP_CG_Ashimura.pdf&embedded=true" width="100%" height="500px"></iframe>
+
+[第1回 WoT-JP CG全体会議 スライド資料 : WoTの現状とビジョン](https://github.com/w3c/wot-jp-cg/blob/main/Event/20211222_1st_Main_Meeting/20211222-WoT-JP_CG_Ashimura.pdf)
+
 ## Thingを作る/WoT対応にするには?
 
 Web of Thingsは、IoTのための特定のプラットフォームを規定するものではありません。
