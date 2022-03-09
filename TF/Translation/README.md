@@ -62,3 +62,5 @@ WoT活動の普及促進のためには，英語に不慣れな日本のコミ�
 * [WoT Thing Description日本語翻訳作業エリア](https://github.com/wot-jp-community/wot-thing-description)
     * [index.html](https://github.com/wot-jp-community/wot-thing-description/blob/main/index.html)
     * [HTMLレンダリング](https://wot-jp-community.github.io/wot-thing-description/index.html) 
+
+何か追加する
