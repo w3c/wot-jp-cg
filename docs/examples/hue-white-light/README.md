@@ -42,7 +42,7 @@
 ## 使用例
 
 上記の Thing Description を元にして JSON-LD ファイルを作成し、
-[node-red-nodegen](https://github.com/node-red/node-red-nodegen) を使用して[ノードモジュールを作成]((https://github.com/node-red/node-red-nodegen/wiki#how-to-create-a-node-from-wot-thing-description))します。
+[node-red-nodegen](https://github.com/node-red/node-red-nodegen) を使用して[ノードモジュールを作成](https://github.com/node-red/node-red-nodegen/wiki#how-to-create-a-node-from-wot-thing-description)します。
 
 ```sh
 npx node-red-nodegen lightTD1.jsonld
