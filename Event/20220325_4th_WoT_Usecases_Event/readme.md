@@ -1,6 +1,11 @@
 # オープン標準による IoT の世界 - 具体的ユースケースを踏まえて
 ## 第4回 WoT-JP CG イベント
 
+## イベントページ
+
+Connpass の [W3C Web of Things Japanese Community Group グループ](https://wot-jp-cg.connpass.com/) にて [第4回 WoT-JP CG イベント - オープン標準による IoT の世界 - 具体的ユースケースを踏まえて](https://wot-jp-cg.connpass.com/event/242456/) として掲載。
+
+
 ## 概要
 W3C Web of Things（WoT）は、Web技術を用いてIoTプラットフォーム間の相互運用を実現するための標準技術であり、Web of Things Japanese Community Group (WoT-JP CG)では、我が国でのWoT標準の普及促進を図るため、多くの業界関係者を交えて様々な議論や活動に取り組んでいる。
 
