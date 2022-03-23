@@ -45,7 +45,7 @@ I<sup>2</sup>C を利用して下記の図のように接続します。
 Thing Description をダウンロード:
 
 ```sh
-curl -sLO https://raw.githubusercontent.com/main/docs/examples/sht3x/sht31.jsonld
+curl -sLO https://raw.githubusercontent.com/w3c/wot-jp-cg/main/docs/examples/sht3x/sht31.jsonld
 editor sht31.jsonld
 ```
 

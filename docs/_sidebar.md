@@ -20,6 +20,7 @@
     - [SwitchBot (開閉センサー)](examples/switchbot-contact-sensor/)
   - 外部フレームワークを利用したWoT化
     - [ロボットアーム (WoTPy × myCobot 280)](examples/mycobot/)
+    - [+Style 加湿器 (WoTPy × Tuya Cloud Development)](examples/tuya-smart-humidifier/)
 
 - WoT仕様
   - [WoT仕様の全体像](recs.md)
