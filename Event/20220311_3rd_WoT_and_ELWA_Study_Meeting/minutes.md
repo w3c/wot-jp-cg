@@ -1,4 +1,4 @@
-# 第３回　WoT-JP CGイベント - W3C Web of Things & ECHONET Lite Web API 勉強会　議事録（案）
+# 第３回　WoT-JP CGイベント - W3C Web of Things & ECHONET Lite Web API 勉強会　議事録
 
 * 開催日
     * 2022年03月11日(金) 17時00分〜19時00分(JST)
