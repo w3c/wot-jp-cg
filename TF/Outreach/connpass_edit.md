@@ -3,7 +3,7 @@
 - イベントの募集を connpass にて行うに際して、connpass の管理者の権限で設定を行ってください。
 
 - connpass 管理者はグループを編集するから行う事が出来ます。
-  ![](C:\Users\SHINODA\Desktop\connpass\images\connpass_000.jpg)
+  ![connpass グループの画像](.\images\connpass_000.jpg)
 
 - connpass 管理者に招待された方は、connpass から承認をしてください。
 	- ログイン状態で https://wot-jp-cg.connpass.com/ にアクセスすると管理権限の招待が来てるという通知バーがでるので accept 頂ければ。 
@@ -13,11 +13,11 @@
   
 ## connpass 募集作成手順
 - connpass は既に開催されたイベント募集をコピーして編集することが出来ます。
-![](C:\Users\SHINODA\Desktop\connpass\images\connpass_001.jpg)
+![connpass イベントのコピー](.\images\connpass_001.jpg)
 - 新しいイベントの募集を行うに際し、以前の告知条件が共通する場合にはコピーを作成して編集するのが手軽で間違いありません。
 - コピーを作成する場合、所属するグループも複製されます。これは後から変更が不可なので、異なるグループ設定が必要な際には注意してください。
 - 以下の内容について変更を行います（コピーを作成する際にも同様）
-![](C:\Users\SHINODA\Desktop\connpass\images\connpass_002.jpg)
+![connpass イベント編集部分](.\images\connpass_002.jpg)
 1. 「タイトル」を変更する　
    - ※文字数制限も鑑みつつ、サブタイトルと分けて上手く記述してください。
 2. 「参加受け付け方法」を編集する　
