@@ -1,8 +1,8 @@
-# 第5回 WoT-JP CG イベント - スマートビル x W3C Web of Things ～ スマートビルの業界標準化に向けて
+# 第5回 WoT-JP CG イベント - スマートビル x W3C Web of Things ～ スマートビルの業界標準化に向けて (The 5th WoT JP CG Meeting on smart building use cases)
 
-## イベントページ
+## イベント参加登録用ページ
 
-Connpass の [W3C Web of Things Japanese Community Group グループ](https://wot-jp-cg.connpass.com/) 内に作成予定。
+[Connpass内 W3C Web of Things Japanese Community Group グループのページ](https://wot-jp-cg.connpass.com/event/244139/) 
 
 ## 概要
 
@@ -16,7 +16,7 @@ DADCのキーパーソンに解説頂きます。また、スマートビルの�
 勉強会の後半では、講演者に業界関係者を加えて、スマートビルの現状の課題や業界標準規格策定への期待や可能性をテーマに、パネルディスカッションを行います。
 
 ### 参加方法について
-- 本ページ (Connpass) にて個人単位でお申込みを受け付けます。Connpass のアカウントを作成し、ログインの上お申込みください。
+- [本ページ] (https://wot-jp-cg.connpass.com/event/244139/) にて個人単位でお申込みを受け付けます。Connpass のアカウントを作成し、ログインの上お申込みください。
 - 勉強会の開催日前に connpass 経由のメッセージ、またはメールアドレスへ参加方法をご案内します。
 
 お申込みの際は、以下の項目についてのアンケートにご回答ください。
