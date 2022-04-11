@@ -72,3 +72,9 @@ Thing Descriptionを人が読んで理解して、アクセスするためのプ
 Thingを扱うことが可能になります。
 
 以上のように、Thing Descriptionを介してさまざまなIoTデバイスとアプリケーションをつなぎ合わせることができるのがWoTの特長です。
+
+WoTの仕様と実装、WoTの作り方/使い方については、こちらのスライドも参考としてご覧ください。
+
+<iframe src="https://docs.google.com/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fw3c%2Fwot-jp-cg%2Fmain%2FEvent%2F20220311_3rd_WoT_and_ELWA_Study_Meeting%2F20220311-WoT-JP_CG-ktoumura.pdf&embedded=true" width="100%" height="500px"></iframe>
+
+[第3回 WoT-JP CG イベント - W3C Web of Things & ECHONET Lite Web API 勉強会 スライド資料 : WoT セッション2:WoT の仕様と実装 - WoT の作り方/使い方](https://github.com/w3c/wot-jp-cg/blob/main/Event/20220311_3rd_WoT_and_ELWA_Study_Meeting/20220311-WoT-JP_CG-ktoumura.pdf)
