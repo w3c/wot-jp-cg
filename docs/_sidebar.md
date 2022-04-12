@@ -26,7 +26,9 @@
   - [WoT仕様の全体像](recs.md)
   - [WoT Thing Descriptionとは](td.md)
 
-- [その他・リンク集](misc.md)
+- その他・リンク集・イベント資料
+  - [イベント情報・資料 (開催済)](event.md)
+  - [その他・リンク集](misc.md)
 
 ---
 
