@@ -103,7 +103,7 @@
     * 帰宅時にも同様にスマホとサーバの連携で機器を切り替える
     * W3C の指定にある記述（セキュリティ、プライバシー、ギャップ、標準規格）の記載を行っている
 
-* スマートホーム×Hybridcast（遠藤）
+* [スマートホーム×Hybridcast（遠藤）](https://github.com/w3c/wot-jp-cg/blob/main/Event/20220325_4th_WoT_Usecases_Event/20220325-WoT_UseCases-Endo.pdf)
 * メディア関連WoT活用ユースケースの紹介
 * 前提「多様化する環境におけるメディア提供」
     * 様々な機器、IoTデバイスにメディアを届けていく必要がある
