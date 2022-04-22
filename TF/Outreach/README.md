@@ -66,6 +66,8 @@ W3C WoT規格の認知度向上と普及。認知度向上に関しては、特�
     - 例えば、ユースケースや要件をユースケースTFにインプットするなど
 - 具体的な活動の進め方（イベントの企画・管理・推進手順）は、以下を参照。
     - [アウトリーチTF - プロジェクト管理](https://github.com/w3c/wot-jp-cg/blob/main/TF/Outreach/project_management.md)
+- [WoT-JP CG の Connpass](https://wot-jp-cg.connpass.com/) の使い方は、以下を参照。
+    - [イベント募集の connpass サイト更新手順](https://github.com/w3c/wot-jp-cg/blob/main/TF/Outreach/connpass_edit.md)
 
 ### 業界巻き込み
 - 例えば、出版業界 (APL、電書協等、デジタル出版業界が対象)
