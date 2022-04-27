@@ -32,7 +32,7 @@ I<sup>2</sup>C を利用して下記の図のように接続します。
 
 下記のフローを[インポートします](https://nodered.jp/docs/user-guide/editor/workspace/import-export)。
 
-[flow.json](flow.json ':include')
+<iframe src="flow.json" width="100%"></iframe>
 
 </details>
 
@@ -40,7 +40,10 @@ I<sup>2</sup>C を利用して下記の図のように接続します。
 
 スキーム・ホスト名・ポート番号 `http://localhost:1880` を自分の使っているアドレスに置き換えて使用します。
 
-[sht31.jsonld](sht31.jsonld ':include')
+import CodeBlock from '@theme/CodeBlock';
+import ThingDescriptionExample from '!!raw-loader!./sht31.jsonld';
+
+<CodeBlock language="json">{ThingDescriptionExample}</CodeBlock>
 
 Thing Description をダウンロード:
 
