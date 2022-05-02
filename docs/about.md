@@ -13,13 +13,13 @@ Thing Descriptionは、Web of Things (WoT) の中心的な構成要素であり�
 Thing Descriptionを介することで、さまざまなIoTプラットフォームおよびアプリケーションを、容易に統合化することが可能となります。  
 いわばWoTは、サイロと化したIoTのそれぞれのPlatform全体の屋根という役割を果たすものです。
 
-<img src="images/platform-wot.png" alt="Web of Things (WoT) について" width="60%" />
+<img src="https://raw.githubusercontent.com/w3c/wot-jp-cg/main/docs/images/platform-wot.png" alt="Web of Things (WoT) について" width="60%" />
 
 (出典:[第1回 WoT-JP CG全体会議 資料 : WoTの現状とビジョン p14](https://github.com/w3c/wot-jp-cg/blob/main/Event/20211222_1st_Main_Meeting/20211222-WoT-JP_CG_Ashimura.pdf))
 
 また、WoTの全体像や標準化については、こちらのスライドも参考としてご覧ください。
 
-<iframe src="../Event/20211222_1st_Main_Meeting/20211222-WoT-JP_CG_Ashimura.pdf" width="100%" height="500px"></iframe>
+<iframe src="https://docs.google.com/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fw3c%2Fwot-jp-cg%2Fmain%2FEvent%2F20211222_1st_Main_Meeting%2F20211222-WoT-JP_CG_Ashimura.pdf&embedded=true" width="100%" height="500px"></iframe>
 
 [第1回 WoT-JP CG全体会議 スライド資料 : WoTの現状とビジョン](https://github.com/w3c/wot-jp-cg/blob/main/Event/20211222_1st_Main_Meeting/20211222-WoT-JP_CG_Ashimura.pdf)
 
@@ -76,6 +76,6 @@ Thingを扱うことが可能になります。
 
 WoTの仕様と実装、WoTの作り方/使い方については、こちらのスライドも参考としてご覧ください。
 
-<iframe src="../Event/20220311_3rd_WoT_and_ELWA_Study_Meeting/20220311-WoT-JP_CG-ktoumura.pdf" width="100%" height="500px"></iframe>
+<iframe src="https://docs.google.com/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fw3c%2Fwot-jp-cg%2Fmain%2FEvent%2F20220311_3rd_WoT_and_ELWA_Study_Meeting%2F20220311-WoT-JP_CG-ktoumura.pdf&embedded=true" width="100%" height="500px"></iframe>
 
 [第3回 WoT-JP CG イベント - W3C Web of Things & ECHONET Lite Web API 勉強会 スライド資料 : WoT セッション2:WoT の仕様と実装 - WoT の作り方/使い方](https://github.com/w3c/wot-jp-cg/blob/main/Event/20220311_3rd_WoT_and_ELWA_Study_Meeting/20220311-WoT-JP_CG-ktoumura.pdf)

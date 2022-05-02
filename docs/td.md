@@ -28,7 +28,7 @@ WoTの相互作用モデルでは、3種類の相互作用のアフォーダン�
 
 の4つの主要コンポーネントから下図のようにThing Descriptionは構成されています。
 
-<img src="images/td-overview.png" width="50%" />
+<img src="https://raw.githubusercontent.com/w3c/wot-jp-cg/main/docs/images/td-overview.png" alt="Thing Descriptionについて" width="50%" />
 
 ## Thing Descriptionの記述方法
 
