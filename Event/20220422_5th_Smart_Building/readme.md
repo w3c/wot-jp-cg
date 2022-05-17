@@ -50,9 +50,9 @@ DADCのキーパーソンに解説頂きます。また、スマートビルの�
 | 17:00 - | 開会ご挨拶 / WoT-JP CG の紹介                                                        |
 | 17:10 - | 第1部: DADCスマートビルプロジェクトとスマートビルの先進事例                          |
 | 17:10 - | - DADCスマートビルプロジェクト紹介                                                   |
-|         | - [事例紹介1: W3C WoTを活用したスマートビル (竹中工務店)](https://github.com/w3c/wot-jp-cg/blob/main/Event/20220422_5th_Smart_Building/20220422_wot_takenaka.pdf))                              |
+|         | - [事例紹介1: W3C WoTを活用したスマートビル (竹中工務店)](https://github.com/w3c/wot-jp-cg/blob/main/Event/20220422_5th_Smart_Building/20220422_wot_takenaka.pdf)                              |
 | 17:30 - | - [事例紹介2: W3C WoTを活用したスマートビル (大阪大学、ダイキン工業)](https://github.com/w3c/wot-jp-cg/blob/main/Event/20220422_5th_Smart_Building/20220422_wot_daikin.pdf)                  |
-| 17:50 - | - [事例紹介3: ビルファシリティの視点から、進化するビルを実現するための課題意識 (東芝)](https://github.com/w3c/wot-jp-cg/blob/main/Event/20220422_5th_Smart_Building/20220422_wot_toshiba.pdf)) |
+| 17:50 - | - [事例紹介3: ビルファシリティの視点から、進化するビルを実現するための課題意識 (東芝)](https://github.com/w3c/wot-jp-cg/blob/main/Event/20220422_5th_Smart_Building/20220422_wot_toshiba.pdf) |
 | 18:10 - | 第2部: パネルディスカッション「スマートビルの現状の課題と、業界標準への期待・可能性」|
 | 19:00 - | 閉会                                                                                 |
 
