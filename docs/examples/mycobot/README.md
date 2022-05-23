@@ -18,7 +18,11 @@
 本サンプルでは、wotpy 0.16.0, pymycobot 2.6.1 を使用しています。  
 最新の情報や詳細は、[WoTPy GitHub](https://github.com/agmangas/wot-py) や [WoTPy のドキュメント](https://agmangas.github.io/wot-py/)をご確認ください。
 
-![myCobot280の写真](mycobot.png ':size=300')
+<div style={{width: "50%"}}>
+
+![myCobot280の写真](mycobot.png)
+
+</div>
 
 ## myCobot のセットアップ
 
@@ -212,6 +216,8 @@ $ curl -X POST -d '{"input":{"release":"True"}}' -H 'content-type:application/js
 
 下記は、curl で myCobot のプロパティの読み取りとアクションを実行しているデモビデオです。
 
-[myCobot操作デモ](mycobot-demo.mp4 ':include controls width=100%')
+import DemoVideo from '!!file-loader!./mycobot-demo.mp4'
+
+<video controls width="100%" src={DemoVideo}></video>
 
 [myCobot操作デモ](mycobot-demo.mp4)
