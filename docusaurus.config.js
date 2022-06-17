@@ -97,6 +97,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         ],
         copyright: `Copyright © ${new Date().getFullYear()} W3C Web of Thing Japanese Community Group. Built with Docusaurus.`,
       },
+      algolia: {
+        appId: '0Q9OX0J90U',
+        apiKey: '7c1390b907a6f7334e1a25a1329f31de',
+        indexName: 'wot-jp-cg',
+      },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
