@@ -1,3 +1,5 @@
+[DRAFT]
+
 # 第5回 WoT-JP CG イベント - スマートビル x W3C Web of Things ～ スマートビルの業界標準化に向けて (The 5th WoT JP CG Meeting on smart building use cases)
 
 ## イベント参加登録用ページ
