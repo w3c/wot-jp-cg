@@ -1,6 +1,7 @@
 [DRAFT]
 
-# 第?回 WoT-JP CG イベント - W3C Web of Things ～ 次世代出版サービスに対するWoTのインパクト (The ?th WoT JP CG Meeting: W3C Web of Things's impact on the next generation publishing)
+# 第6回 WoT-JP CG イベント - W3C Web of Things ～ 次世代出版サービスに対するWoTのインパクト
+# (The 6th WoT JP CG Meeting: W3C Web of Things's impact on the next generation publishing)
 
 ## イベント参加登録用ページ
 
