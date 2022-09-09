@@ -54,7 +54,7 @@
 * W3C WoTなどを活用したスマート・サービス先進事例（例：スマート・ビルディングのユースケース）
 
 ### 講演者・パネリスト（以下要更新）
-* モデレーターー：塩濵大平（Media Do International, Inc. President & CEO、W3C PBG共同議長、W3C Evangelist）
+* モデレーター：塩濵大平（Media Do International, Inc. President & CEO、W3C PBG共同議長、W3C Evangelist）
 * 水嶌友昭 (株式会社インターネット総合研究所　サイバーセキュリティAI事業部　主任研究員, WoT-JP CG共同議長)
 * 芦村和幸 (慶應義塾大学大学院政策・メディア研究科 特任教授、W3C Web of Things Staff Contact)
 * 遠藤大礎 (日本放送協会）
