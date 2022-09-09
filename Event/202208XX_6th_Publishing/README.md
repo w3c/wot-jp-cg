@@ -4,7 +4,10 @@
 
 ## イベント参加登録用ページ
 
+Coming Soon
+<!--
 [Connpass内 W3C Web of Things Japanese Community Group グループのページ](https://wot-jp-cg.connpass.com/event/244139/) 
+-->
 
 ## 概要
 ### Web技術の出版産業への応用
@@ -36,7 +39,7 @@
 本イベントが、出版業界および周辺関係者で、出版コンテンツのWoTユースケースを検討し、創出する継続的機会を作り出す契機となれば幸いです。
 
 ### 参加方法について
-- [WoT-JP CGのConnpassサイト](https://wot-jp-cg.connpass.com/event/244139/) にて個人単位でお申込みを受け付けます。Connpass のアカウントを作成し、ログインの上お申込みください。
+- WoT-JP CGのConnpassサイトにて個人単位でお申込みを受け付けます。Connpass のアカウントを作成し、ログインの上お申込みください。
 - 勉強会の開催日前に connpass 経由のメッセージ、またはメールアドレスへ参加方法をご案内します。
 
 お申込みの際は、以下の項目についてのアンケートにご回答ください。
@@ -88,7 +91,6 @@
 | 主催者     | W3C Web of Things Japanese Community Group (WoT-JP CG)       |
 
 関連サイト：[Web of Things Japanese Community Group (WoT-JP CG)](https://wot-jp-cg.netlify.app/#/)<br>
-　　　　　　[IPA DADC](https://www.ipa.go.jp/dadc/index.html) 
 
 ### 注意事項（以下要更新）
 - 勉強会の様子は運営より録画させていただき、Web上のイベントレポートや SNS 等で公開されますので予めご了承ください。
