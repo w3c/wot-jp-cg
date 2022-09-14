@@ -1,5 +1,3 @@
-[DRAFT]
-
 # 第6回 WoT-JP CG イベント - W3C Web of Things ～ 次世代出版サービスに対するWoTのインパクト (The 6th WoT JP CG Meeting: W3C Web of Things's impact on the next generation publishing)
 
 ## イベント参加登録用ページ
@@ -65,7 +63,7 @@ Coming Soon
 * 小澤清人 (株式会社小学館　マーケティング局デジタル・プロモーション戦略室課長)
 * 長尾洋一郎 (株式会社講談社　第一事業戦略チーム（techチーム）ゼネラルマネージャー、KODANSHAtech 合同会社 ゼネラルマネージャー)
 * 川田寛 (株式会社メディアドゥ　VPoE)
-* (出版関係者もう一名) ＞スケジュール確認中
+* 大村嘉範(よしのり) (集英社デジタル事業部デジタル事業第１課課長)
 
 
 ## プログラム（以下要更新）
