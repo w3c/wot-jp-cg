@@ -2,7 +2,7 @@
 
 ## イベント参加登録用ページ
 
-[Connpass内 W3C Web of Things Japanese Community Group グループのイベント情報ページ]([https://wot-jp-cg.connpass.com/event/260638/](https://wot-jp-cg.connpass.com/event/260638/)) 
+[Connpass内 W3C Web of Things Japanese Community Group グループのイベント情報ページ](https://wot-jp-cg.connpass.com/event/260638/)
 
 ## 概要
 ### Web技術の出版産業への応用
