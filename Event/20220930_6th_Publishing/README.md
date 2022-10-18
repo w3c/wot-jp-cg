@@ -67,9 +67,9 @@
 | 時間    | 内容                                                                                 |
 | ------- | ------------------------------------------------------------------------------------ |
 | 17:00 - 17:05| 開会ご挨拶 (塩浜大平)
-| 17:05 - 17:15| Web of Things Japanese Community Groupの紹介（水嶌友昭）|
-| 17:15 - 17:45| Web標準の産業応用 -WoTのインパクト-（芦村和幸）|
-| 17:45 - 18:00| 放送サービスにおけるWoT活用ユースケース -「放送メディア・番組」の利活用・「テレビ」のIoT化-（遠藤大礎）|
+| 17:05 - 17:15| [Web of Things Japanese Community Groupの紹介（水嶌友昭）](https://github.com/w3c/wot-jp-cg/blob/main/Event/20220930_6th_Publishing/2022-09-30-WoT-JP-CG-Mizushima.pdf)|
+| 17:15 - 17:45| [Web標準の産業応用 -WoTのインパクト-（芦村和幸）](https://github.com/w3c/wot-jp-cg/blob/main/Event/20220930_6th_Publishing/20220930-wot-ka.pdf)|
+| 17:45 - 18:00| [放送サービスにおけるWoT活用ユースケース -「放送メディア・番組」の利活用・「テレビ」のIoT化-（遠藤大礎）](https://github.com/w3c/wot-jp-cg/blob/main/Event/20220930_6th_Publishing/20220930_第6回_WoT-JP_CGイベント_NHK_メディアユースケース.pdf)|
 | 18:00 - 19:00| パネルディスカッション「デジタル出版の現状の課題と、業界標準への期待・可能性」(講演者およびパネリスト)|
 | 19:00 | 閉会                                                                                 |
 
