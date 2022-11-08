@@ -49,7 +49,7 @@
     * いきなり翻訳をするのではなく，もくもく会的な形で，まずは読み合わせてみてはどうか (WoT Binding Templates読み合わせ会)
 
 ### TTC共催セミナー
-* [一般社団邦人 情報通信技術委員会 (TTC)](https://www.ttc.or.jp) とは，[WoT Architecture 1.0仕様書の日本語訳](https://wot-jp-community.github.io/wot-architecture/)を[TTC標準 JF-W3C-wot-architecture-20200409](https://www.ttc.or.jp/document_db/information/view_express_entity/1388)として公開してもらう関係にある
+* [一般社団法人 情報通信技術委員会 (TTC)](https://www.ttc.or.jp) とは，[WoT Architecture 1.0仕様書の日本語訳](https://wot-jp-community.github.io/wot-architecture/)を[TTC標準 JF-W3C-wot-architecture-20200409](https://www.ttc.or.jp/document_db/information/view_express_entity/1388)として公開してもらう関係にある
 * [出版イベント](https://github.com/w3c/wot-jp-cg/tree/main/Event/20220930_6th_Publishing)の際にも話題に出た「Web-based Digital Twins for Smart Cities」の内容について，[W3C TPAC 2022会合でのブレークアウト議論](https://www.w3.org/2022/09/14-smartcities-minutes.html)を踏まえた上で，[TTCのDigital Twinsセミナー](https://www.ttc.or.jp/seminar/rep/rep20221007)の第二段として開催するのはどうか
 
 ## 今後のスケジュール概要
