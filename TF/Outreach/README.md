@@ -87,3 +87,6 @@ W3C WoT規格の認知度向上と普及。認知度向上に関しては、特�
     - ISO/IEC JTC1/SC41
     - IEC/SC 3D (Common Data Dictionary)
     - ECHONET
+
+## 活動実績と今後の予定
+https://github.com/w3c/wot-jp-cg/tree/main/Event
