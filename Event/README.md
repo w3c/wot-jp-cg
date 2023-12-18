@@ -14,6 +14,9 @@
 
 
 ## 今後開催予定のイベント案 (GitHub Issue登録候補)
+### スマートシティ勉強会
+* [Issue 94](https://github.com/w3c/wot-jp-cg/issues/94)
+* W3Cにおけるスマートシティ関連標準化の動向について振り返るとともに，新規設立準備中のWeb-based Digital Twins for Smart Cities IGへの期待について意見交換する．
 
 ### 翻訳もくもく会
 * [Issue 89](https://github.com/w3c/wot-jp-cg/issues/89)
