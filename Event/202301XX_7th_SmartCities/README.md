@@ -62,8 +62,7 @@
 | 定員       | 50名                                                         |
 | 主催者     | W3C Web of Things Japanese Community Group (WoT-JP CG)       |
 
-関連サイト：[Web of Things Japanese Community Group (WoT-JP CG)](https://wot-jp-cg.netlify.app/#/)<br>
-　　　　　　[IPA DADC](https://www.ipa.go.jp/dadc/index.html) 
+関連サイト：[Web of Things Japanese Community Group (WoT-JP CG)](https://wot-jp-cg.netlify.app/#/)
 
 ### 注意事項
 - 勉強会の様子は運営より録画させていただき、Web上のイベントレポートや SNS 等で公開されますので予めご了承ください。
