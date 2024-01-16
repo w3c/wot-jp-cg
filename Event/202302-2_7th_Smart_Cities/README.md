@@ -4,6 +4,8 @@
 
 [Connpass内 W3C Web of Things Japanese Community Group グループのページ](https://connpass.com/event/307891/preview/) 
 
+([編集ページ](https://connpass.com/event/307891/edit/))
+
 ## 概要
 
 近年、ICTを活用した高度なエネルギーマネジメントや、市民のよりよい生活を支援するための技術として、スマートシティが注目を集めています。既に、さまざまな国において、業界のベンダや標準化団体を巻き込んだスマートシティ開発の取り組みが始まっています。例えば、我が国でも、政府主導で[デジタル田園都市国家構想](https://www.cas.go.jp/jp/seisaku/digitaldenen/index.html)が提唱されており、デジタル技術を利用して、人口減少、少子高齢化、産業空洞化等のさまざまな社会課題の解決を目指しています。
