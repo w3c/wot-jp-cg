@@ -2,7 +2,7 @@
 
 ## イベント参加登録用ページ
 
-[Connpass内 W3C Web of Things Japanese Community Group グループのページ@@@](https://wot-jp-cg.connpass.com/event/@@@/) 
+[Connpass内 W3C Web of Things Japanese Community Group グループのページ](https://connpass.com/event/307891/preview/) 
 
 ## 概要
 
