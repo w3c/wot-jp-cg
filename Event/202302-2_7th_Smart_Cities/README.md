@@ -20,7 +20,7 @@
 本勉強会では、まず、スマートシティ開発やその標準化の現状、および課題について振り返るとともに、W3Cにおけるスマートシティ標準化への取り組みについて概観します。その上で、現在作成中である、W3C Web-based Digital Twins for Smart Cities Interest Groupの[設立趣意書案 (Draft Charter)](https://w3c.github.io/smartcities-workshop/draft-charter/index.html) について意見交換し、今後、どのように設立趣意書を改善するべきか議論します。
 
 ### 参加方法について
-- [WoT-JP CGのConnpassサイト](https://wot-jp-cg.connpass.com/event/244139/) にて個人単位でお申込みを受け付けます。Connpass のアカウントを作成し、ログインの上お申込みください。
+- [WoT-JP CGのConnpassサイト](https://wot-jp-cg.connpass.com/event/307891/) にて個人単位でお申込みを受け付けます。Connpass のアカウントを作成し、ログインの上お申込みください。
 - 勉強会の開催日前に connpass 経由のメッセージ、またはメールアドレスへ参加方法をご案内します。
 
 お申込みの際は、以下の項目についてのアンケートにご回答ください。
