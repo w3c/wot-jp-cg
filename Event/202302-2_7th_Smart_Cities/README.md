@@ -48,7 +48,7 @@
 | ------- | ------------------------------------------------------------------------------------ |
 | 17:00 - 17:10 | 開会ご挨拶 / WoT-JP CG の紹介 - [[スライド](https://github.com/w3c/wot-jp-cg/blob/main/Event/202302-2_7th_Smart_Cities/2024-02-02-WoT-JP-CG-SmartCity.pdf)]                                                       |
 | 17:10 - 18:30 | W3Cにおけるスマートシティ標準化の取り組み - Web-based Digital Twins for Smart Cities - [[スライド](https://www.w3.org/2024/Talks/0202-smartcities-ka/20240202-smartcities-ka.pdf)]
-| 18:30 - 18:50 | オープンディスカッション「スマートシティの課題と、国際的標準化への期待・可能性」|
+| 18:30 - 18:50 | オープンディスカッション「スマートシティの課題と、国際的標準化への期待・可能性」- [[議論メモ](https://github.com/w3c/wot-jp-cg/blob/main/Event/202302-2_7th_Smart_Cities/minutes.md)]|
 | 18:50 - 19:00 | 閉会                                                                                 |
 
 ### 参加に必要なもの
