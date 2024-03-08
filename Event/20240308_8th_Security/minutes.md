@@ -155,6 +155,6 @@
 * ご意見フィードバック: メールアドレス
 * WoT-JP CGへの参加方法について:
     * CGのページから「JOIN」の赤いボタンをクリック
-        * CGページ: @@@
+        * CGページ: https://www.w3.org/community/wot-jp/
     * なお，その際W3Cのアカウントが必要．W3Cアカウントがない場合は，まず，Get an accountページでアカウント作成が必要
-        * Get an accountページ: @@@
+        * Get an accountページ: https://www.w3.org/account/
