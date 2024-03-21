@@ -58,11 +58,11 @@
 
 | 時間    | 内容                                                                                 |
 | ------- | ------------------------------------------------------------------------------------ |
-| 17:00 - 17:05| オープニング (水嶌友昭)|
-| 17:05 - 17:25| W3C WoTアーキテクチャ及びセキュリティ・プライバシーガイドライン概要 (水嶌友昭) (\*1) |
-| 17:25 - 17:45| IoTセキュリティ国際標準化動向 (安次富大介) (\*2) |
-| 17:45 - 18:05| ECHONET Lite Web APIセキュリティ関連　検討状況 (寺本圭一) (\*3) |
-| 18:05 - 18:55| パネルディスカッション「W3C WoTにおけるセキュリティ・プライバシーの課題と今後の取り組み」 (講演者およびパネリスト) (\*4) |
+| 17:00 - 17:05| [オープニング (水嶌友昭)](https://github.com/w3c/wot-jp-cg/blob/main/Event/20240308_8th_Security/20240308-wot-sec-seminar-Mizushima.pdf)|
+| 17:05 - 17:25| [W3C WoTアーキテクチャ及びセキュリティ・プライバシーガイドライン概要](https://github.com/w3c/wot-jp-cg/blob/main/Event/20240308_8th_Security/202400308-wot-sec-seminar-Mizushima.md) (水嶌友昭) (\*1)|
+| 17:25 - 17:45| [IoTセキュリティ国際標準化動向](https://github.com/w3c/wot-jp-cg/blob/main/Event/20240308_8th_Security/20240308-wot-sec-seminar-ietf-ajitomi.pdf) (安次富大介) (\*2) |
+| 17:45 - 18:05| [ECHONET Lite Web APIセキュリティ関連　検討状況](https://github.com/w3c/wot-jp-cg/blob/main/Event/20240308_8th_Security/20240308-wot-sec-seminar-echonet-teramoto.pdf) (寺本圭一) (\*3) |
+| 18:05 - 18:55| [パネルディスカッション「W3C WoTにおけるセキュリティ・プライバシーの課題と今後の取り組み」](https://github.com/w3c/wot-jp-cg/blob/main/Event/20240308_8th_Security/20240308-wot-sec-seminar-ka.pdf) (講演者およびパネリスト) (\*4) |
 | 18:55 - 19:00| クロージング (水嶌友昭)| 
 
 * (\*1) W3C WoTアーキテクチャ及びセキュリティ・プライバシーガイドライン概要（水嶌友昭）
