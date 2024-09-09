@@ -10,6 +10,7 @@
       - [RaspberryPiでThingを作る](raspithing.md)
     - Thingの利用
       - [Node Generator for Node-REDを使ったThingの操作](nodegen-tutorial.md)
+    - [Node-REDでWeb of Thingsを試してみる(外部サイト)](https://qiita.com/hidekita/items/6d07452922e201c89cdf)
 
 - Thingの実装例
   - センサーのWoT化
