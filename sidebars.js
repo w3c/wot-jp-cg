@@ -57,6 +57,11 @@ module.exports = {
                 }
               ]
             },
+            {
+              type: 'link',
+              label: 'Node-REDでWeb of Thingsを試してみる(外部サイト)',
+              href: 'https://qiita.com/hidekita/items/6d07452922e201c89cdf',
+            }
           ],
         },
       ]
